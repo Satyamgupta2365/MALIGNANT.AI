@@ -1,0 +1,11 @@
+google-generativeai
+Pillow  # for PIL.Image
+streamlit
+numpy
+faiss-cpu  # for faiss (or faiss-gpu if using a GPU)
+langchain
+langchain_community
+huggingface-hub  # for HuggingFaceEmbeddings
+pandas
+tensorflow
+scikit-learn
